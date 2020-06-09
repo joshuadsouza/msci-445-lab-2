@@ -1,0 +1,24 @@
+﻿<Window x:Class="MSCI445_Assignment2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MSCI445_Assignment2"
+        mc:Ignorable="d"
+        Title="Email Form" Height="566.125" Width="800">
+	<Grid Background="#FFE4E4E4" Margin="0,0,0.333,1">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="414*"/>
+			<ColumnDefinition Width="379*"/>
+		</Grid.ColumnDefinitions>
+		<Label Content="To:" HorizontalAlignment="Left" Margin="67,61,0,0" VerticalAlignment="Top" FontSize="16"/>
+		<Label Content="From:" HorizontalAlignment="Left" Margin="52,118,0,0" VerticalAlignment="Top" FontSize="16"/>
+		<Label Content="Subject:" HorizontalAlignment="Left" Margin="41,181,0,0" VerticalAlignment="Top" FontSize="16"/>
+		<Label Content="Body:" HorizontalAlignment="Left" Margin="52,235,0,0" VerticalAlignment="Top" FontSize="16"/>
+		<TextBox x:Name="To_Field" HorizontalAlignment="Left" Height="30" Margin="119,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Grid.ColumnSpan="2" TextChanged="To_Field_TextChanged"/>
+		<TextBox x:Name="From_Field" HorizontalAlignment="Left" Height="30" Margin="119,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Grid.ColumnSpan="2" TextChanged="From_Field_TextChanged"/>
+		<TextBox x:Name="Subject_Field" HorizontalAlignment="Left" Height="30" Margin="119,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="600" Grid.ColumnSpan="2" TextChanged="Subject_Field_TextChanged"/>
+		<TextBox x:Name="Body_Field" HorizontalAlignment="Left" Height="222" Margin="119,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="600" Grid.ColumnSpan="2" TextChanged="Body_Field_TextChanged"/>
+		<Button Content="Send" HorizontalAlignment="Left" Margin="152.847,69,0,0" VerticalAlignment="Top" Width="152" Height="39" Grid.Column="1" Click="Button_Click"/>
+	</Grid>
+</Window>

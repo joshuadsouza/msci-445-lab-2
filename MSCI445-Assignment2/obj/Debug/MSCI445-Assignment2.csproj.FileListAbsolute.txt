@@ -1,0 +1,17 @@
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\bin\Debug\MSCI445-Assignment2.exe.config
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\bin\Debug\MSCI445-Assignment2.exe
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\bin\Debug\MSCI445-Assignment2.pdb
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MSCI445-Assignment2.csprojAssemblyReference.cache
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\App.g.cs
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MSCI445-Assignment2_MarkupCompile.cache
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MSCI445-Assignment2_MarkupCompile.lref
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MSCI445-Assignment2.g.resources
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MSCI445_Assignment2.Properties.Resources.resources
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MSCI445-Assignment2.csproj.GenerateResource.cache
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MSCI445-Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MSCI445-Assignment2.exe
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MSCI445-Assignment2.pdb
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\PasswordInput.g.cs
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\PasswordInput.baml
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MainWindow.g.cs
+C:\Users\Jacinto D'Souza\Documents\Waterloo\Management Engineering\4A\MSCI 445 - Telecommunication Systems\Lab 2\MSCI445-Assignment2\MSCI445-Assignment2\obj\Debug\MainWindow.baml
